@@ -6,8 +6,8 @@
 	  Support:
 	  Description:
 	  Version:
-	  
-------------------------------------------------- 
+
+-------------------------------------------------
 */
 /* CSS Index
 -------------------------------------------------
@@ -4290,7 +4290,7 @@ input:focus {
 /* line 67, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_category.scss */
 .category-area .single-category .category-img .category-caption .collection {
   display: block;
-  color: #0071fe;
+  color: #98c2f6;
   text-transform: capitalize;
   font-size: 30px;
   line-height: 1.1;
@@ -4867,7 +4867,7 @@ input:focus {
   height: 60px;
   width: 100%;
   padding: 10px 32px;
-  border: 1px solid #fff;
+  border: 1px solid #000;
   border-radius: 30px;
 }
 
